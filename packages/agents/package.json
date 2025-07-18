@@ -1,0 +1,13 @@
+{
+  "name": "agents",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "@langchain/core": "^0.1.12",
+    "@langchain/openai": "^0.0.14",
+    "@langchain/anthropic": "^0.0.10",
+    "@langchain/google-genai": "^0.0.10"
+  }
+}
